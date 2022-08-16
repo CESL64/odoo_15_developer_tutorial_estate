@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+    <record id="estate_group_user" model="ir.module.category">
+
+    </record>
+
+    <record id="estate_group_user" model="res.groups">
+        <field name="name">Agent</field>
+    </record>
+</odoo>
